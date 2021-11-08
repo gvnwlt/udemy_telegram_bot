@@ -7,6 +7,7 @@ import sys
 import threading
 import time
 import datetime
+import logging
 
 ADD_REMINDER_TEXT = 'Add a reminder ⏰'
 INTERVAL = 30
